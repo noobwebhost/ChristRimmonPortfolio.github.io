@@ -21,6 +21,9 @@ html{
    
   
 }
+body{
+     animation: opac 0.75s ease-in-out;
+}
 #title1{
     display:flex;
     justify-content: flex-start;
